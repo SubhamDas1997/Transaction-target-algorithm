@@ -1,9 +1,10 @@
-package payMoney.main;
+package main;
 
 import java.util.Scanner;
-import payMoney.classes.Transaction;
 
-public class Main {
+import classes.Transaction;
+
+public class Driver {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

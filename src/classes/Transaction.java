@@ -1,4 +1,4 @@
-package payMoney.classes;
+package classes;
 
 public class Transaction {
 	
